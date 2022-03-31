@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Brigham Davis' Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Brigham Davis
+Data Science student at Brigham Young University - Idaho 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,27 +16,10 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2019-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
-
 ## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
 
 ### Data Science Lead
 
@@ -62,14 +45,6 @@ __Imagine Learning__
 - Build web scraping tool to find and format school district technology data.
 - Used R and the Rvest package to parse and format web data.
 - Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
 
 ## Service and Work History
 
