@@ -3,7 +3,6 @@ layout: cv
 title: Brigham Davis' Resume
 ---
 
-IAN WAS HERE
 # Brigham Davis
 Data Science student at Brigham Young University - Idaho 
 
