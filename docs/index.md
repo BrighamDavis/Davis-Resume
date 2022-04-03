@@ -25,37 +25,32 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`February 2020 - April 2020`
+__Robertson Installations__, Laborer
+•	Conducted layout preparation for playgrounds and shade structure sites.  
+•	Managed timing and placement of playground structure pieces  
+•	Prepared concrete footings for inspections and regulations based on location and dimensions 
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`May 2021 – December 2021`
+__Brent’s Lawn and Leisure__, Mechanic and Sales Associate
+•	Diagnosed and repaired small engine lawn mowers, weed trimmers, chainsaws, and blowers 
+•	Located and replaced parts directly for customers  
+•	Organized and maintained database of repairs and services  
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`January 2022 - April 2022`
+__Madison Memorial Hospital__, Project Lead
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Formatted data to specifications while maintaining relational integrity
+- Created an interactive dashboard for all Emergency Room Data
+- Worked with a team to verify results and complete timely work
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
 `2023-2025`
-__Service Missionary__, South Africa
+__Service Missionary__, New Zealand 
 
 
 
